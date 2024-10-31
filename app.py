@@ -1,6 +1,5 @@
 # First, make sure you have Streamlit installed:
 # pip install streamlit
-pip install streamlit 
 
 import streamlit as st
 import re
